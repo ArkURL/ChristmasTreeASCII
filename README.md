@@ -21,8 +21,7 @@ A festive ASCII Christmas tree generator written in Python. Spread holiday cheer
 Simply clone or download the repository:
 
 ```bash
-git clone <your-repo-url>
-cd christmas_tree
+git clone https://github.com/ArkURL/ChristmasTreeASCII.git
 ```
 
 ## Usage
